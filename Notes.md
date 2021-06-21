@@ -27,8 +27,8 @@ Throwable & Pick-up able, like the trident, High damage.
 ### Inferno Trident
 now needs Inferno Sparkle.
 
-### Materials
-## Cursed Feathers
-## Rusty Hatchet
-## Inferno Sparkle
-## Centrated Inferno Sparkle (9 Inferno Sparkle)
+## Materials
+### Cursed Feathers
+### Rusty Hatchet
+### Inferno Sparkle
+### Centrated Inferno Sparkle (9 Inferno Sparkle)
